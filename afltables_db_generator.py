@@ -1,7 +1,6 @@
 import afltables_scraper as afl
 import pandas as pd
 
-# TODO: Clean random bits of text in DFS
 
 def generate_afl_match_db(range):
   # Quick way but no user feedback
