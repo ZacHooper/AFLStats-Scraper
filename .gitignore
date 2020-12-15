@@ -1,0 +1,9 @@
+# dependencies
+/venv
+
+# Cache
+/.vscode
+/__pycache__
+
+# testing stuff
+test*
